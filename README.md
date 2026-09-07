@@ -73,3 +73,8 @@ storage.delete("master_key")
   - Encryption key auto-generated in `~/.kotlin-crypto/.key` (protected by OS file permissions).
 - **Data Cleanup**: Always clear sensitive variables from memory after use when possible.
 
+---
+
+## Support
+
+If this project saved you some time, you can [buy me a coffee](https://buymeacoffee.com/iml1s).
