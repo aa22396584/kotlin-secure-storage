@@ -8,6 +8,8 @@ https://github.com/aa22396584/kotlin-secure-storage
 [Codeberg](https://codeberg.org/ImL1s/kotlin-secure-storage)
 
 
+> **Why this GitHub home?** Public development moved here from [`ImL1s/kotlin-secure-storage`](https://github.com/ImL1s/kotlin-secure-storage) because that GitHub account is currently restricted (anonymous visitors get 404 on the profile and many assets). This is the same project. Please open Issues and Pull Requests here.
+
 > This project has been moved into [web3-kmp](https://github.com/ImL1s/web3-kmp). Please check the new repository for the latest updates.
 
 # kotlin-secure-storage
