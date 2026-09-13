@@ -1,8 +1,11 @@
 # ⚠️ Deprecated
 
-> **Development home:** https://github.com/ImL1s/kotlin-secure-storage  
-> Please open issues and pull requests there.  
-> **Mirrors:** [Codeberg](https://codeberg.org/ImL1s/kotlin-secure-storage) · [GitLab](https://gitlab.com/aa22396584/kotlin-secure-storage)
+**Development, Issues & Pull Requests:**  
+https://github.com/aa22396584/kotlin-secure-storage
+
+**Mirrors:**  
+[GitLab](https://gitlab.com/aa22396584/kotlin-secure-storage) ·
+[Codeberg](https://codeberg.org/ImL1s/kotlin-secure-storage)
 
 
 > This project has been moved into [web3-kmp](https://github.com/ImL1s/web3-kmp). Please check the new repository for the latest updates.
